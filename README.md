@@ -1,2 +1,23 @@
-# Wordlist-Generator
-RandWordlistGen is a Python tool that generates random password wordlists using letters, digits, and symbols. Users can customize password length, number of entries, and save output to a file.
+# RandWordlistGen
+
+A simple Python-based tool to generate random password wordlists.  
+Users can customize the password length, number of generated entries, and output file name.
+
+---
+
+## ✨ Features
+- Generate random passwords using:
+  - Uppercase & lowercase letters
+  - Numbers
+  - Special characters (`!@#$%&*`)
+- Save generated passwords to a `.txt` file
+- Simple and interactive CLI
+
+---
+
+## 🚀 Usage
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Pasindu-sd/RandWordlistGen.git
+cd RandWordlistGen
