@@ -2,7 +2,6 @@
 
 A powerful, customizable, and efficient wordlist generator tool written in [Python/Java/C++/etc.]. This tool creates comprehensive wordlists for security testing, password recovery, data analysis, and linguistic research.
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 ## 🚀 Features
 
