@@ -28,17 +28,6 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 
 ## Installation
 
-### Prerequisites
-
-- Python 3.8 or higher
-- pip (Python package manager)
-
-### Method 1: Install from PyPI (if published)
-
-```bash
-pip install wordlist-generator
-```
-
 ---
 
 ### Example:
