@@ -37,10 +37,6 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 
 ```bash
 pip install wordlist-generator
-
----
-
-### Example:
 ```
 
 RandWordlistGen - Random Password Wordlist Generator
