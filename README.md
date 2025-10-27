@@ -2,12 +2,12 @@
 
 A powerful, customizable, and efficient wordlist generator tool written in [Python/Java/C++/etc.]. This tool creates comprehensive wordlists for security testing, password recovery, data analysis, and linguistic research.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 
 - **Multiple Generation Modes**: Create wordlists using combinations, permutations, or rule-based patterns
-- **Custom Character Sets**: Define your own character sets including lowercase, uppercase, numbers, and special characters
+- **Custom Character Sets**: Define your own character sets, including lowercase, uppercase, numbers, and special characters
 - **Pattern Support**: Generate words based on specific patterns (e.g., "abc123", "word##")
 - **Dictionary Attack Mode**: Combine base words with common prefixes/suffixes and leet speak variations
 
@@ -26,7 +26,7 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 - **CLI & GUI Interfaces**: Command-line for automation and GUI for easy use
 - **Cross-Platform**: Works on Windows, Linux, and macOS
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
