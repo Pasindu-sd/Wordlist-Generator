@@ -39,7 +39,6 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
     Wordlist saved as 'sample.txt'
     Total passwords generated: 100
     Password length: 3 characters
-
 ```
 
 ### Example 02:
