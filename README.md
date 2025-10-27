@@ -28,7 +28,7 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 
 ---
 
-### Example:
+### Example 01:
 
 ```
 RandWordlistGen - Random Password Wordlist Generator
