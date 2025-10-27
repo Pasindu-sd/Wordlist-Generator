@@ -31,15 +31,26 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 ### Example 01:
 
 ```
-RandWordlistGen - Random Password Wordlist Generator
-Enter password length (e.g., 8): 3
-How many passwords to generate (e.g., 1000): 100
-Output filename (default = generated_wordlist.txt): sample.txt
-
-Wordlist saved as 'sample.txt'
-Total passwords generated: 100
-Password length: 3 characters
+    RandWordlistGen - Random Password Wordlist Generator
+    Enter password length (e.g., 8): 3
+    How many passwords to generate (e.g., 1000): 100
+    Output filename (default = generated_wordlist.txt): sample.txt
+    
+    Wordlist saved as 'sample.txt'
+    Total passwords generated: 100
+    Password length: 3 characters
 
 ```
 
+### Example 02:
+```
+    RandWordlistGen - Random Password Wordlist Generator 
+    Enter password length (e.g., 8): 10
+    How many passwords to generate (e.g., 1000): 52
+    Output filename (default = generated_wordlist.txt): sample2.txt
+    
+    Wordlist saved as 'sample2.txt'
+    Total passwords generated: 52
+    Password length: 10 characters
+```
 ---
