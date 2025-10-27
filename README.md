@@ -26,8 +26,6 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 - **CLI & GUI Interfaces**: Command-line for automation and GUI for easy use
 - **Cross-Platform**: Works on Windows, Linux, and macOS
 
-## Installation
-
 ---
 
 ### Example:
