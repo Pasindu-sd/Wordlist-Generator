@@ -39,6 +39,11 @@ A powerful, customizable, and efficient wordlist generator tool written in [Pyth
 pip install wordlist-generator
 ```
 
+---
+
+### Example:
+
+```
 RandWordlistGen - Random Password Wordlist Generator
 Enter password length (e.g., 8): 3
 How many passwords to generate (e.g., 1000): 100
@@ -51,4 +56,3 @@ Password length: 3 characters
 ```
 
 ---
-```
